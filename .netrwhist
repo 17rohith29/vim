@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/home/Downloads/IdeaVim'
+let g:netrw_dirhist_2='/Users/home'
+let g:netrw_dirhist_3='/Users/home/.vim'
+let g:netrw_dirhist_4='/Users/home/Desktop/Spring 2019/CMSC 330/cmsc330spring19-public/project2b/src'
+let g:netrw_dirhist_5='/Users/home/schedule'
+let g:netrw_dirhist_6='/Users/home/Desktop/Spring 2019/CMSC 330/cmsc330spring19-public/project3/test/public_inputs'
